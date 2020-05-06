@@ -1,6 +1,6 @@
 # Hotel-Management
 
-A Sample Hotel Management System created using C++ to maintain
+A Sample Hotel Management System created using C++ to maintain the data of customers perfectly.
 
 ## Contributors
 
