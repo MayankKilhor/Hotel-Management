@@ -1,3 +1,13 @@
+#include<iostream.h> 
+#include<fstream.h> 
+#include<conio.h> 
+#include<iomanip.h> 
+#include<stdlib.h> 
+#include<ctype.h>
+#include<string.h>
+#include<stdio.h> 
+#include<dos.h>
+
 void screen()
 {
 cout<<"\n\t\t\t	GALLIFREY HOTEL\n";
@@ -464,11 +474,7 @@ clrscr();
 cout<< endl << endl << endl<< endl; textmode(C80); textbackground(WHITE); textcolor(BLUE);
 cout<<"\t\t\t****************************\n"; cout<<"\t\t\t* HOTEL MANAGEMENT PROGRAM *\n"; cout<<"\t\t\t****************************\n"; cout<<"\n\n\n\n\t\t MADE BY:-";
 sleep(1);
-cout<<"\n\n\t\t\t	MAYANK KILHOR(18BCI0136)"
-<<"\n\t\t\t	VIKAS MISHRA(18BCE2391)"
-<<"\n\t\t\t	SHUBHAM SAREEN(18BCI0162)"
-<<"\n\t\t\t	RTVIK KATARYA(18BCE0837)"
-<<"\n\t\t\t	RISHABH PANCHAL(18BCE2275)\n\n\n"; sleep(1);
+cout<<"\n\n\t\t\t	MAYANK KILHOR(18BCI0136)\n\n\n"; sleep(1);
 cout<<"	Press Enter to continue	" << endl << endl << endl << endl;
 getch();
 
